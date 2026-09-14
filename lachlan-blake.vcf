@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Blake;Lachlan;;;
+FN:Lachlan Blake
+ORG:Cinova Pty Ltd
+TITLE:Founder & Director
+TEL;TYPE=CELL:+61429301316
+EMAIL;TYPE=WORK:lachlan@cinova.com.au
+URL:https://cinova.com.au
+PHOTO;VALUE=uri:https://cdn.jsdelivr.net/gh/lachlan-blake/cinova-signature-assets@b25982dbbcd28408385103dd36ef77d97eb877a6/lachlan-contact-card-photo.jpg
+END:VCARD
